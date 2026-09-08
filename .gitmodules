@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "postshock"]
 	path = postshock
-	url = https://github.com/cran/postshock
+	url = https://github.com/wqy497/postshock
